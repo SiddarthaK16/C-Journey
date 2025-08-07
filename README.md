@@ -5,9 +5,9 @@ Showcasing my journey with C programming — starting from basic codes and logic
 ##  What’s in here?
 
 A bunch of beginner-friendly C programs to learn and practice:
-- 'ASCII_values.c' — classic starter
-- `leap_year.c — logic practice
-- `pass_checker.c' — using switch-case
+- `ascii_values_logic.c`
+- `leap_year.c` — discovering logic of determining a leap year
+- `pass_checker.c` 
 - More coming as I learn!
 
 ---
