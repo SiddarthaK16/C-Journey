@@ -12,6 +12,7 @@ A bunch of beginner-friendly C programs to learn and practice:
 - `prime_check.c`
 - `factorial_finder.c`
 - `table_using_array.c`
+- `fibonacci.c`
 - More coming as I learn!
 
 ---
