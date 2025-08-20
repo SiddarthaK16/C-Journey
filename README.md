@@ -11,6 +11,7 @@ A bunch of beginner-friendly C programs to learn and practice:
 - `table_print.c`
 - `prime_check.c`
 - `factorial_finder.c`
+- `table_using_array.c`
 - More coming as I learn!
 
 ---
