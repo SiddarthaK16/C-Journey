@@ -15,6 +15,7 @@ A bunch of beginner-friendly C programs to learn and practice:
 - `fibonacci.c`
 - `encryption_basicmethod.c`
 - `decryption_basicmethod.c`
+- `find_elderone.c`
 - More coming as I learn!
 
 ---
