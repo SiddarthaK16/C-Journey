@@ -13,6 +13,8 @@ A bunch of beginner-friendly C programs to learn and practice:
 - `factorial_finder.c`
 - `table_using_array.c`
 - `fibonacci.c`
+- `encryption_basicmethod.c`
+- `decryption_basicmethod.c`
 - More coming as I learn!
 
 ---
